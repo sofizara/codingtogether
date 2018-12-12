@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' executeOnSourceChanges='false'>
+    <pages>
+        <page name='Interators'/>
+        <page name='Dictionaries'/>
+        <page name='Variables'/>
+        <page name='Lists'/>
+        <page name='Classes'/>
+        <page name='Functions'/>
+    </pages>
+</playground>
